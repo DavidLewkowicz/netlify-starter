@@ -252,6 +252,7 @@ sections:
             flexDirection: col
             borderColor: border-primary
             justifyContent: center
+            borderWidth: 2
         type: FeaturedItem
     actions:
       - label: Get started
