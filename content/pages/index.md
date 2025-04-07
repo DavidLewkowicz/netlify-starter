@@ -49,7 +49,7 @@ sections:
         padding:
           - pt-8
           - pl-16
-          - pb-16
+          - pb-8
           - pr-16
   - type: PricingSection
     title:
