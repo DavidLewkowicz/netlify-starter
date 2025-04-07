@@ -249,7 +249,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
         type: FeaturedItem
     actions:
       - label: Get started
